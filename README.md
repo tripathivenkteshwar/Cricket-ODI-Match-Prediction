@@ -14,16 +14,16 @@ Reference:
 <h3>Batsmen Performance</h3>
 Batting ability of a player has a signicant contribution in shaping the outcome of a match. First, we examine his career performances to determine his potency as a contender. Second, we consider his recent match scores to analyze his prevailing form: where form of a batsman determines his contribution to the team in recent matches, which in turn reflects his condence levels.
 <br>
-Batsman Performance
 <img src="https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/img/batsman.JPG">
 <br>
 <h3> Bowlers Performance</h3>
+<br>
 <img src="https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/img/bowlers.JPG">
 Reference:
 <a href="https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/Madan_Gopal_Jhanwar.pdf" alt="Research">Link</a>
 <br>
-
 <h3>Team Strength</h3>
+<br>
 <img src="https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/img/team%20strength.JPG">
 <br>
 Reference:
