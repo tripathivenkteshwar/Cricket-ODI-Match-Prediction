@@ -6,7 +6,7 @@ Winning is the goal of any sport. Cricket is one the most watched sport now a da
 <br>
 ## Player Features and their Notations
 <br>
-![alt text](https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/img/notations.JPG?raw=true)
+![alt text](https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/img/notations.JPG)
 <br>
 Reference:
 <a href="https://github.com/tripathivenkteshwar/Cricket-ODI-Match-Prediction/blob/master/Madan_Gopal_Jhanwar.pdf" alt="Research">Link</a>
